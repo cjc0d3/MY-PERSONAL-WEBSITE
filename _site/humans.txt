@@ -1,14 +1,14 @@
 /* TEAM */
-Developer & Designer: Josh Gerdes
+Developer & Designer: Charu Jain
 Twitter: @joshgerdes
 Site: http://charujain.org
-Location: Minneapolis, MN, USA
+Location: Indore, MP, INDIA
 						
 /* THANKS */
-Name: Dale Anthony
+Name: Charu Jain
 
 /* SITE */
-Last update: 2021/11/22
+Last update: 2021/11/24
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: Sublime Text, Photoshop
