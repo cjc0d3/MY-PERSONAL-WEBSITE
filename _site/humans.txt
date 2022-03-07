@@ -1,14 +1,14 @@
 /* TEAM */
-Developer & Designer: Charu Jain
-Twitter: @joshgerdes
+Developer & Designer: Josh Gerdes
+Twitter: @CharuJa41228001
 Site: http://charujain.org
-Location: Indore, MP, INDIA
+Location: INDORE, MP, INDIA
 						
 /* THANKS */
 Name: Charu Jain
 
 /* SITE */
-Last update: 2021/11/24
+Last update: 2022/03/07
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: Sublime Text, Photoshop
